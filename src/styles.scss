@@ -2,3 +2,5 @@
 
 @import "tailwindcss";
 @import '@spartan-ng/brain/hlm-tailwind-preset.css';
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
